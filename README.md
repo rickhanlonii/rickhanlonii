@@ -2,8 +2,6 @@
 
 Rick Hanlon is a software engineer from Akron, Ohio with a B.S. in Theoretical Mathematics from the University of Akron.
 
-He currently works on the React Native Core team at Facebook.
-
 ## Links
 - Twitter: https://twitter.com/rickhanlonii
 - LinkedIn: https://linkedin.com/in/rickhanlonii/
