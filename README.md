@@ -7,4 +7,4 @@ Rick Hanlon is a software engineer from Akron, Ohio with a B.S. in Theoretical M
 - LinkedIn: https://linkedin.com/in/rickhanlonii/
 - Instagram: https://instagram.com/rickhanlonii
 - GitHub: https://github.com/rickhanlonii
-- Website: https://rickhanlonii.codes/ 
+- Website: https://rickhanlon.codes/ 
