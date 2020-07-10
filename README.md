@@ -2,7 +2,7 @@
 
 # About
 
-Rick Hanlon is a software engineer from Akron, Ohio with a B.S. in Theoretical Mathematics from the University of Akron.
+Ricky is a software engineer from Akron, Ohio with a B.S. in Theoretical Mathematics from the University of Akron.
 
 ## Links
 - Twitter: https://twitter.com/rickhanlonii
